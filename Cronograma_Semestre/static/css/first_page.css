@@ -1,0 +1,40 @@
+h2 {
+    color: rgb(3, 3, 5);
+}
+
+h2 {
+    color: rgb(3, 3, 5);
+}
+
+li {
+    border: 1px solid black;
+    padding: 15px;
+    width: 120px;
+    transform: translateX(150px)
+}
+
+#titleheader {
+    text-align: center;
+}
+
+#linhaPontilhada {
+    text-align: center;
+    transform: translateY(-300px);
+}
+
+#table {
+    transform: translateY(-290px);
+    width: 700px;
+}
+
+td,
+th {
+    padding: .7em;
+    margin: 1;
+    border: 1px solid #ccc;
+    transform: translateX(250px);
+}
+
+#first_title {
+    transform: translateY(-290px);
+}
